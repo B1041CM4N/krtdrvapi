@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# krtdrvapi
+KRT DRIVER API RESTful
+>>>>>>> ecb109bf57d8b8fbd78c2f02944314a9fa43d5de
